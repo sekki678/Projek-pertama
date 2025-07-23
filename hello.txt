@@ -1,2 +1,4 @@
 "Hello Git" 
 "budi anak yang rajin" 
+'print("this is a new feature")' 
+'print("this is a new feature")' 
