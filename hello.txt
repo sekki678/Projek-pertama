@@ -1,1 +1,2 @@
 "Hello Git" 
+"budi anak yang rajin" 
